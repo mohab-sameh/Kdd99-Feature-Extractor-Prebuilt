@@ -1,0 +1,1 @@
+sudo '/home/mohab/Downloads/kdd99_feature_extractor-master/build-files/src/kdd99extractor'
