@@ -1,6 +1,5 @@
 # kdd99_feature_extractor
 Utility for extraction of subset of KDD '99 features [1] from realtime network traffic or .pcap file
-This utility is a part of our project at University of Bergen.
 
 Some feature might not be calculated exactly same way as in KDD, because there was no documentation explaining the details of KDD implementation found. Algorithms are based on some articles [2][3] and observation of values in KDD dataset. 
 
